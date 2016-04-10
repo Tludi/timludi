@@ -30,7 +30,9 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sorcery'
 gem 'puma'
 # added for Heroku use
+gem 'redcarpet', '~> 3.3.0'
 gem 'rails_12factor'
+gem 'font-awesome-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

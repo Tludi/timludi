@@ -160,10 +160,12 @@ select {
 }
 
 .has-pattern {
-  background-image: url('pattern-1.png');
-  /*background-repeat: repeat;*/
-  background-position: left top;
-  /*background-size: 10px;*/
+  /*background-image: url('pattern-1.png');*/
+  background-image: url('blogfeature2clear.png');
+  background-repeat:no-repeat;
+  background-position: center bottom;
+
+  /*background-size: 100% 100%;*/
 }
 .delayp1 {
   animation-delay: .1s;
